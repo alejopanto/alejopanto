@@ -1,5 +1,4 @@
 ### Hello nice to meet you 👋
-- 🔭 I’m currently working on TestU Labs Inc
 - 🌱 I’m currently learning Data Analytics (tableau, SQL)
 - 🤔 I’m looking for help with finding the better form to be a better Data Analytics
 - 📫 Find me on LinkedIn: https://www.linkedin.com/in/josepantoja93/
